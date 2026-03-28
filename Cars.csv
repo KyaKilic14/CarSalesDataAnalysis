@@ -1,0 +1,16 @@
+brand,model,year,price,mileage,fuel,transmission
+BMW,3 Series,2019,18995,32000,Petrol,Automatic
+Audi,A4,2018,17450,41000,Diesel,Automatic
+Mercedes,C Class,2020,22995,21000,Petrol,Automatic
+Ford,Fiesta,2017,8995,50000,Petrol,Manual
+Volkswagen,Golf,2019,15995,28000,Diesel,Manual
+BMW,1 Series,2016,12495,61000,Diesel,Manual
+Audi,A3,2021,23995,15000,Petrol,Automatic
+Mercedes,A Class,2019,19995,26000,Petrol,Automatic
+Ford,Focus,2018,10995,47000,Diesel,Manual
+Volkswagen,Polo,2020,14995,22000,Petrol,Manual
+BMW,5 Series,2021,29995,18000,Hybrid,Automatic
+Audi,Q3,2020,27995,24000,Diesel,Automatic
+Mercedes,GLA,2021,31995,12000,Petrol,Automatic
+Ford,Kuga,2019,17995,35000,Diesel,Manual
+Volkswagen,Tiguan,2022,33995,9000,Hybrid,Automatic
